@@ -126,4 +126,23 @@ Decision Tree Regression was the best regression method.
 The KNN imputation method was the best. With a score of 0.7
 
 
-### Resources:
+### Resources used:
+
+- [Python documentation](https://docs.python.org/3/) (https://docs.python.org/3/)
+- [Table generator](https://www.tablesgenerator.com/markdown_tables) (https://www.tablesgenerator.com/)
+- [SKlearn documentation](https://scikit-learn.org/) (https://scikit-learn.org/)
+
+#### Stackoverflow:
+- https://stackoverflow.com/questions/9031783/hide-all-warnings-in-ipython
+- https://stackoverflow.com/questions/33885051/using-spyder-python-to-open-npy-file
+- https://stackoverflow.com/questions/9541025/how-to-copy-a-python-class
+- https://stackoverflow.com/questions/55767312/how-to-position-suptitle
+- https://stackoverflow.com/questions/39539476/how-to-sharex-and-sharey-axis-in-for-loop
+- https://stackoverflow.com/questions/17753398/using-matplotlib-is-it-possible-to-set-properties-for-all-subplots-on-a-figure
+- https://stackoverflow.com/questions/43162506/undefinedmetricwarning-f-score-is-ill-defined-and-being-set-to-0-0-in-labels-wi
+- https://stackoverflow.com/questions/45554008/error-in-python-script-expected-2d-array-got-1d-array-instead
+- https://stackoverflow.com/questions/4455076/how-to-access-the-ith-column-of-a-numpy-multidimensional-array-https://stackoverflow.com/questions/52763325/how-to-obtain-only-the-name-of-a-models-object-in-scikitlearn
+- https://stackoverflow.com/questions/38068669/dynamic-for-loops-in-python
+- https://stackoverflow.com/questions/36901/what-does-double-star-asterisk-and-star-asterisk-do-for-parameters
+- https://stackoverflow.com/questions/27122757/sklearn-set-params-takes-exactly-1-argument
+- https://stackoverflow.com/questions/11351032/named-tuple-and-default-values-for-optional-keyword-arguments
